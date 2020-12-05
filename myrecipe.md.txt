@@ -1,0 +1,5 @@
+Open the folder created in VS Code
+Create a README.md file to explain what the recipe is
+Create an ingredients.md file to write down the ingredients of the recipe.
+Create a recipe.md file to write down the step by step recipe.
+thank you
